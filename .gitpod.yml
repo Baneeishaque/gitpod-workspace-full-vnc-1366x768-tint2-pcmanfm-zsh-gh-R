@@ -5,6 +5,7 @@ image:
 tasks:
   - command: zsh
 #  - init: gh auth login
+  - command: R
     
 # Ports to expose on workspace startup
 ports:
